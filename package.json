@@ -1,0 +1,10 @@
+{
+  "name": "touch-alias",
+  "version": "1.0.0",
+  "repository": "git@github.com:zt4ff/touch-alias.git",
+  "author": "Kayode Oluwasegun <segunkayode00@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "t": "./bin/touch-alias.sh"
+  }
+}
