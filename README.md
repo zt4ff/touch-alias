@@ -6,7 +6,7 @@ A CLI tool to create files quickly and automatically create the path if the dire
 
 ## Installation
 
-`npm i -g 
+`npm i -g touch-alias`
 
 ## How to use
 
